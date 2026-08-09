@@ -1,5 +1,7 @@
 # FedSHAP-IDS
 **Paper:** FedSHAP-IDS: Privacy-Preserving IoT Intrusion Detection 
+via Federated Ensemble Learning with Server-Side SHAP Matrix Aggregation
+
 
 **Submitted to:** IEEE Access
 
