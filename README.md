@@ -15,6 +15,10 @@ via Federated Ensemble Learning with Server-Side SHAP Matrix Aggregation
 - CICIoT2023: https://www.kaggle.com/datasets/ciciot2023
 - UNSW-NB15: https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15
 
+## How to Run
+1. Open FedSHAP_IDS.ipynb in Kaggle or Jupyter
+2. Attach both datasets
+3. Run all cells sequentially
 
 ## Results
 | Dataset    | Accuracy | F1-Macro | AUC-ROC |
