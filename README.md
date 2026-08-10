@@ -18,6 +18,7 @@ via Federated Ensemble Learning with Server-Side SHAP Matrix Aggregation
 ## How to Run
 1. Open FedSHAP_IDS.ipynb in Kaggle or Jupyter
 2. Attach both datasets
+3. Run all cells sequentially
 
 ## Results
 | Dataset    | Accuracy | F1-Macro | AUC-ROC |
