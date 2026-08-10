@@ -8,8 +8,6 @@ via Federated Ensemble Learning with Server-Side SHAP Matrix Aggregation
 - Python 3.10+
 - lightgbm
 - shap
-- scikit-learn
-- pandas, numpy, scipy
 
 ## Datasets
 - CICIoT2023: https://www.kaggle.com/datasets/ciciot2023
